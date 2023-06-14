@@ -176,9 +176,9 @@ DBSCAN понимает где какая плотность точек. Пер�
 
 На графиках довольно легко можно заметить получившиеся кластеры. 
 
-<h1><img src="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/pictures/clast_1.png" height="200"/>
-<img src="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/pictures/clast_2.png" height="200"/>
-<img src="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/pictures/clast_3.png" height="200"/></h1>
+<h1><img src="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/pictures/clast_1.png" height="250"/>
+<img src="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/pictures/clast_2.png" height="250"/>
+<img src="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/pictures/clast_3.png" height="250"/></h1>
 
 У каждого из них есть свои особенности:
 
