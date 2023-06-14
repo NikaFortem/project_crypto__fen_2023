@@ -3,6 +3,8 @@
 
 # Тема проекта: **"Классификация криптовалют на основе их рыночных показателей"**
 
+<h1 align="center"><img src="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/pictures/IMG_6527.JPG" height="500"/></h1>
+
 ## Состав группы: Виктория Карпейкина, Юлия Щучкина, Максим Бочаров
 
 # Данные : 
