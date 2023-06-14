@@ -4,6 +4,7 @@
 ## Структура файлов:
 - файлы с кодом: <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/parcing_binance.ipynb" target="_blank">parcing_binance.ipynb</a> / data_analysis.ipynb
 - файлы с данными: <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/df_price.csv" target="_blank">df_price.csv</a> / <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/type.txt" target="_blank">type.txt</a> / <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/USTREASURY-YIELD.csv" target="_blank">USTREASURY-YIELD.csv</a>. 
+- файл с графиками plotly: <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/plotly.html" target="_blank">plotly.html</a>
 
 # Тема проекта: **"Классификация криптовалют на основе их рыночных показателей"**
 
