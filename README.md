@@ -3,7 +3,7 @@
 
 ## Структура файлов:
 - файлы с кодом: <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/parcing_binance.ipynb" target="_blank">parcing_binance.ipynb</a>, data_analysis.ipynb
-- файлы с данными: <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/df_price.csv" target="_blank">df_price.csv</a> , <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/type.txt" target="_blank">type.txt</a> , <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/USTREASURY-YIELD.csv" target="_blank">USTREASURY-YIELD.csv</a>. 
+- файлы с данными: <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/df_price.csv" target="_blank">df_price.csv</a>, <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/type.txt" target="_blank">type.txt</a>, <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/USTREASURY-YIELD.csv" target="_blank">USTREASURY-YIELD.csv</a>. 
 
 # Тема проекта: **"Классификация криптовалют на основе их рыночных показателей"**
 
@@ -11,7 +11,7 @@
 
 # Данные : 
 
-В рамках нашего проекта мы проанализировали котировки топ-68 криптовалют за период с 01.01.2020 по 10.05.2023, полученные с криптовалютной
+В рамках нашего проекта мы проанализировали котировки топ-68 криптовалют за период с 01.01.2020 по 10.05.2023, полученные помощи  <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/parcing_binance.ipynb" target="_blank">парсинга</a> с криптовалютной
 биржи Binance. Они представлены в таблице <a href="https://github.com/NikaFortem/project_crypto__fen_2023/blob/main/df_price.csv" target="_blank">df_price.csv</a> .
 
 Однако помимо стоимостных показателей, мы посмотрели на тип рассматриваемых криптовалют (категориальный признак). По самой базовой классификации криптовалюты делятся на **монеты (coin)** и **токены (token)**.
